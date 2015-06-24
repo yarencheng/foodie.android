@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="area_divide_height">1dp</dimen>
+    <dimen name="candidate_horizontal_margin">30dp</dimen>
+    <dimen name="photo_length">1024px</dimen>
+    <dimen name="photo_preview_size">100dp</dimen>
+</resources>

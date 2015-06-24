@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Foodie</string>
+    <string name="title_section1">Nearby</string>
+    <string name="title_section2">Favorite</string>
+    <string name="title_section3">My Post</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_settings_addPhoto">Add Photo</string>
+    <string name="title_activity_add_photo">AddPhotoActivity</string>
+    <string name="title_dish_of_add_photo">Name</string>
+    <string name="title_location_of_add_photo">Location</string>
+    <string name="required_of_add_photo">required</string>
+    <string name="optional_of_add_photo">optional</string>
+    <string name="price_of_add_photo">Price</string>
+    <string name="price_currency_hit_of_add_photo">currency</string>
+    <string name="title_need_login">Please sign in first</string>
+    <string name="button_confirm">OK</string>
+    <string name="menu_sign_in">Sign in</string>
+    <string name="menu_sign_out">Sign out</string>
+    <string name="hint_photo_comment">how dose it taste?(optional)</string>
+    <string name="hint_dish_name">what are you eating?(required)</string>
+    <string name="hint_location_name">at where?(required)</string>
+    <string name="hint_price_name">how much?(optional)</string>
+    <string name="distance_km">km</string>
+    <string name="distance_m">m</string>
+    <string name="create_location_here">create a location \"%s\" here</string>
+    <string name="create_dish_here">create a dish named \"%s\" here</string>
+    <string name="add_new_price">add new price: \"%s\"</string>
+    <string name="input_location_first">enter location first</string>
+    <string name="input_dish_first">enter dish first</string>
+    <string name="complete">complete</string>
+    <string name="location_is_empty">location is empty</string>
+    <string name="dish_is_empty">dish is empty</string>
+    <string name="cant_get_location">Can\'t get location</string>
+    <string name="upload_failed">upload failed</string>
+    <string name="uploading">uploading</string>
+    <string name="failed_add_location">failed to add location \"%s\"</string>
+    <string name="failed_add_dish">failed to add dish \"%s\"</string>
+    <string name="failed_add_price">failed to add price \"%d\"</string>
+    <string name="failed_add_photo">failed to add photo"</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_dish_detail">DishDetailActivity</string>
+
+</resources>

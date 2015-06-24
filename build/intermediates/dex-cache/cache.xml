@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\yaren_000\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.19.0\81dbf9795d387d5e80e55346582d5f2fb81a42eb\google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.19.0-f09c49ca50594e1cb99a999288c1879c77daeb89.jar" />
+    </item>
+    <item
+        jar="C:\Users\yaren_000\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-gson\1.19.0\b3cdefb990d5212bb2a130525b20e2c44aeffc4c\google-http-client-gson-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b3cdefb990d5212bb2a130525b20e2c44aeffc4c">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\google-http-client-gson-1.19.0-a7c10f5cea94fe7d5249cdf676bbaa382596b0de.jar" />
+    </item>
+    <item
+        jar="C:\Users\yaren_000\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.3.3\f91b7a4aadc5cf486df6e4634748d7dd7a73f06d\httpcore-4.3.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\httpcore-4.3.3-d46731cb811a43a1a2519f8194d4f3aa5ac97eb2.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-1dd6fe89da00cfc3ff8cacbb63b7eb2ef833a158.jar" />
+    </item>
+    <item
+        jar="C:\Users\yaren_000\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.17.0-rc\cfef30e5d361e2fd2892eed93a183db48dcae153\google-api-client-android-1.17.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cfef30e5d361e2fd2892eed93a183db48dcae153">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\google-api-client-android-1.17.0-rc-969584e25180f25fcac8a7afa04fd33b9c8a1be7.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\4.0.30\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cebe8e4a3a469c4623addcca1dc571407ff3a08e">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\classes-574966cf3ce171ab749f36a5f73a89eecad969d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\yaren_000\.m2\repository\net\arenx\api\foodieapi\v1-1.19.1-SNAPSHOT\foodieapi-v1-1.19.1-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d7f2a7f063f52c04df37b3bc7f72196b0fec9168">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\foodieapi-v1-1.19.1-SNAPSHOT-fda7fb09e8549073a83735e6ef79c5e41857ef09.jar" />
+    </item>
+    <item
+        jar="C:\Users\yaren_000\.gradle\caches\modules-2\files-2.1\com.jakewharton\disklrucache\2.0.2\93b399470e72c0bc8cb52379943b63c9aa586cd8\disklrucache-2.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="93b399470e72c0bc8cb52379943b63c9aa586cd8">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\disklrucache-2.0.2-b0f46643c44f456e8933b44d197943e53c93decd.jar" />
+    </item>
+    <item
+        jar="C:\Users\yaren_000\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0-7ea79cbe00a432f97f4da3c893a5154a31c08407.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\classes-b36d5e439f46b3428075c52843a6cc48a98bbc97.jar" />
+    </item>
+    <item
+        jar="C:\Users\yaren_000\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.19.0\d473a8962e14a707a3716637e4898bb2dd9643f2\google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.19.0-fc952a21eb0cb33b9ac02a04de12816bc0788381.jar" />
+    </item>
+    <item
+        jar="C:\Users\yaren_000\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpmime\4.3.6\cf8bacbf0d476c7f2221f861269365b66447f7ec\httpmime-4.3.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cf8bacbf0d476c7f2221f861269365b66447f7ec">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\httpmime-4.3.6-f5b3ed31f05409aa69b4d81dc59f50f0c05b37a8.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\classes-9a9711eccdb16e02c13b8b71920dacc973a08cc5.jar" />
+    </item>
+    <item
+        jar="C:\Users\yaren_000\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-92d9e645b1fffe4fb33330a44152611beda84939.jar" />
+    </item>
+    <item
+        jar="C:\Users\yaren_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-97961b480ee30220024916c8bdb14b701a49d93b.jar" />
+    </item>
+    <item
+        jar="C:\Users\yaren_000\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-28e2a2b25dcfde923a26f0ab109fd50432408688.jar" />
+    </item>
+    <item
+        jar="C:\Users\yaren_000\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\gson-2.3.1-3c9b40de9e23006f2e06fec4c957dae1cadba1c4.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\classes-bd0fbe80559d58872cd82857384b5c85b369c6d0.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-52eae957734ab95905521476e740c0232739ea43.jar" />
+    </item>
+    <item
+        jar="C:\Users\yaren_000\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.3.2\90a3822c38ec8c996e84c16a3477ef632cbc87a3\commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\commons-lang3-3.3.2-9c7f9e53ed80ca71045e42797589ecce309b3c64.jar" />
+    </item>
+    <item
+        jar="C:\Users\yaren_000\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.19.0\cdca49ad0977c040f603478aa2e16b2775c8fec6\google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\google-http-client-1.19.0-b214ed3bfea28e5e48b1b35be4826a3f3e954029.jar" />
+    </item>
+    <item
+        jar="C:\Users\yaren_000\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.17.0-rc\f3fc9acc57c2a55fd17a421710f564b73dabda21\google-http-client-android-1.17.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3fc9acc57c2a55fd17a421710f564b73dabda21">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.17.0-rc-f187db36e97c426c6005aa00c56c88e81a10759e.jar" />
+    </item>
+    <item
+        jar="C:\Users\yaren_000\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.19.1\b09ccfa9ac71b52b60ba4c1ab630150685d58c32\google-api-client-1.19.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b09ccfa9ac71b52b60ba4c1ab630150685d58c32">
+        <dex dex="D:\Google Drive\android workspace\project wrokspace\FoodieAndroid\app\build\intermediates\pre-dexed\debug\google-api-client-1.19.1-6519ff5df693581cc0131ea06b256f131463d2b0.jar" />
+    </item>
+
+</items>
